@@ -1,4 +1,4 @@
-#instructions
+## instructions
 1.    Two screens need to be built from a single reusable component.
 
 2.    Reusable component needs to have a table, global filter, individual column filter, sorting for individual columns, pagination, refresh
@@ -16,3 +16,17 @@
 8.    Table - 2 - Sorting, refresh.
 
 9.    Individual column filter should be in both tables.
+
+Follow below
+------------
+To run this project
+
+- clone this repo.
+
+		git clone https://github.com/muhammedamirt/TableManagerAssignment
+## Frontend
+
+- start app after install node_modules.
+
+        npm install
+        npm start
